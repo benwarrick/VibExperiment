@@ -3,9 +3,5 @@ Constraints:
     - Fact: 40-60 words  
     - Include a source URL if possible  
 
-
-
-
-
 Hi... There. 
 Hello!
