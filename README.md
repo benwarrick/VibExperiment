@@ -3,8 +3,10 @@ Constraints:
     - Fact: 40-60 words  
     - Include a source URL if possible  
 
-Hi...
+Hi... There. 
+Hello!
 
    - Item1  
    - Item2  
    - Item3  
+
